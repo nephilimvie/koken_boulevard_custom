@@ -1,0 +1,14 @@
+#albums div.text {
+margin-top: 5px;
+margin-left: 7px;
+padding-bottom: 20px;
+}
+
+
+#albums div.item {
+background-color: lightgray;
+margin-bottom: 28px;
+padding-bottom: 0px;
+max-height: 283px;
+min-height: 283px;
+}
